@@ -1,5 +1,9 @@
 package com.jitterted.ebp.blackjack;
 
+//i make a change here...
+//after i commit what should happen?
+//it should auto-trigger codebuild and after that 
+
 import org.fusesource.jansi.Ansi;
 
 import static org.fusesource.jansi.Ansi.ansi;
